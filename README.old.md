@@ -1,6 +1,5 @@
 # beginner-projects-in-react
 
-
 🌟 - New Project
 
 ### Tier-1: Beginner Projects
